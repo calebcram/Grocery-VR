@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5701123785028213268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6023596742687800715}
+  - component: {fileID: 4829018536110947167}
+  - component: {fileID: 2293973952141964135}
+  m_Layer: 0
+  m_Name: SceneHelper_ToBeExported
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6023596742687800715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701123785028213268}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 24.723053, y: -15.130151, z: 15.157867}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4829018536110947167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701123785028213268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf6e1c4e5b40854ba02b5b01b16d0e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerAnims: {fileID: 0}
+  player: {fileID: 0}
+  employee: {fileID: 0}
+  askForHelpMenuCanvas: {fileID: 0}
+  mainScreenCanvas: {fileID: 0}
+  eventSystem: {fileID: 0}
+  beveragesButton: {fileID: 0}
+  movePoint1: {fileID: 0}
+  movePoint2: {fileID: 0}
+  movePoint3: {fileID: 0}
+  movePoint4: {fileID: 0}
+  movePoint5: {fileID: 0}
+  movePoint6: {fileID: 0}
+  movePoint7: {fileID: 0}
+  movePoint8: {fileID: 0}
+  movePoint9: {fileID: 0}
+  movePoint10: {fileID: 0}
+  movePoint11: {fileID: 0}
+  movePoint12: {fileID: 0}
+  walkSpeed: 5
+  noHelpChosen: 0
+  moveToBeverages: 0
+  moveToBeverages2: 0
+  moveToBoxDinners: 0
+  moveToBread: 0
+  moveToCannedFood: 0
+  moveToCereal: 0
+  moveToDairy: 0
+  moveToDairy2: 0
+  moveToFrozenFood: 0
+  moveToFrozenTreats: 0
+  moveToMeat: 0
+  moveToMeat2: 0
+  moveToPaperProducts: 0
+  moveToPersonalCare: 0
+  moveToProduce: 0
+  moveToSnacks: 0
+  moveToWine: 0
+  movingToLocation: 0
+--- !u!114 &2293973952141964135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701123785028213268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e267c8adace4f564cb4c974692bf63e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  difficultyMenuCanvas: {fileID: 0}
+  mainScreenCanvas: {fileID: 0}
+  product: {fileID: 0}
+  products: []
+  allProducts: []
+  currentProduct: {fileID: 0}
+  currentProductName: 
+  count: 0
+  productIndex: 0
+  shoppingListTextObject: {fileID: 0}
+  shoppingListText: {fileID: 0}
+  noDifficultyChosen: 0
+  easyDifficulty: 0
+  normalDifficulty: 0
+  hardDifficulty: 0
+  chooseItemsMode: 0

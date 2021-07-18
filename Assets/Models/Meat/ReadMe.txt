@@ -1,0 +1,1 @@
+All of the textures included in this folder are to be applied to the model called MeatPackage.obj, as they are all made using it as a base.

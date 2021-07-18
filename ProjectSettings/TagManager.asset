@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shoppingListText
+  - ShoppingList
+  - Cashier
+  - ThoughtBubbleCanvas
+  - ThoughtBubbleText
+  - PlayerGrabLocation
+  - ShopperWoman
+  - ShopperMan
+  - Shopper
+  - Container
+  - ShoppingCart
+  - CartHand1
+  - CartHand2
+  - Product
+  - icon
+  - Wallet
+  - PileFruit
+  - hand
+  - AskMenuCanvas
+  - Employee
+  - Bag
+  - EventSystem
+  - Penny
+  - Nickel
+  - Dime
+  - Quarter
+  - 1Dollar
+  - 5Dollar
+  - 10Dollar
+  - 20Dollar
+  - 50Dollar
+  - OKButton
+  - CashButton
+  - CreditButton
+  - DifficultyMenuCanvas
+  - EasyModeButton
+  - LevelSelectCanvas
+  - ControlMenuCanvas
+  - StartMenuCanvas
+  - Money
+  - Payscreen
+  - CardInsert
+  - CardSwipe
+  - CheckoutCounter
+  - PayScreenItemizedText
+  - SelfCheckMainText
+  - PayScreenOutputText
+  - TutorialMenuCanvas
+  - PlayerMoneyText
+  - MoneySlot
+  - Card
+  - CardReader
+  - MoneyCanvas
+  - CurrentOfferCheckoutText
+  - TotalMoneyCheckoutText
+  - PlayerMoneyCheckoutText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ShelfStocker
+  - ShelfSensor
+  - Player
+  - Store Item
+  - Hand
+  - Wallet
+  - ShoppingList
+  - Button
+  - Untouchable
+  - GrabOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

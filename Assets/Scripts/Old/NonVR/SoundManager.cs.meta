@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b07fdadabf20794eb3584b622ce8f74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scanObjectBeep: {fileID: 8300000, guid: 31491315fd7c54242a2958e14b98c31a, type: 3}
+  - footsteps: {instanceID: 0}
+  - cartWheels: {instanceID: 0}
+  - cartStop: {instanceID: 0}
+  - storeDoors: {fileID: 8300000, guid: a7aab0af0606db5458401e8264e75668, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
